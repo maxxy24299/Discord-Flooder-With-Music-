@@ -12,4 +12,4 @@ How To Use It ?
 I Recommend Use Good Hosting & NOT a selfbot – runs as regular Bots only.
 For defending servers you own.
 
-# Discord Username m4xx.ly
+# Discord Username 24pvt
