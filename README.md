@@ -10,6 +10,6 @@ How To Use It ?
 4 step : Now Final Step Run "node index.js" 
 
 I Recommend Use Good Hosting & NOT a selfbot – runs as regular Bots only.
-For defending servers you own.
+For defending servers That you own.
 
 # Discord Username 24pvt
